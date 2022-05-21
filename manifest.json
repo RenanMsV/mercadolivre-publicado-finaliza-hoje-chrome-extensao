@@ -1,0 +1,15 @@
+{
+    "name": "Mercado Livre Publicados Hoje / Finalizam Hoje",
+    "version": "1.0.0",
+    "icons": { "16": "icon64.png", "32": "icon64.png",  "64": "icon64.png" },
+    "description": "Adiciona botão no Mercado Livre para exibir produtos publicados hoje ou que finalizam hoje. Valeu a dica dada pelo MW Informatica.",
+    "manifest_version": 3,
+    "author": "RenanMsV",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "ML _PublishedToday_YES"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}

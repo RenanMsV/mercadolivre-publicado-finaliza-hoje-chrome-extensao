@@ -1,0 +1,12 @@
+* {
+    background-color:#292a2d;
+    border: .2em solid #5f6368;
+    border-radius: .3em;
+    color: #9aa0a6;
+    transition: .5s all;
+}
+
+button:hover, input:hover {
+    background-color:#3f4146;
+    transition-delay: 0s;
+}
